@@ -1,0 +1,9 @@
+owner: secimtools
+name: suite_secimtools_1_0
+description: Release 1.0 of the SECIM tools
+type: repository_suite_definition
+categories:
+  - Metabolomics
+long_description: SECIM tools are a collection of tools for processing NMR and Mass Spectroscopy data for metabolomic studies.
+homepage_url: https://github.com/moskalenko/tools-devteam
+remote_repository_url: https://github.com/moskalenko/tools-devteam/blob/master/suites/suite_secimtools_1_0/

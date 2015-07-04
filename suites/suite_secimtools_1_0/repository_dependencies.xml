@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<repositories description="A suite of Galaxy tools for the SECIM project release 1.0.">
+    <repository name="svm_classifier" owner="secim" />
+</repositories>
